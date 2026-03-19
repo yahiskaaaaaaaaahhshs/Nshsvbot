@@ -10,7 +10,7 @@ import os
 import json
 
 # Initialize bot with new token
-bot = telebot.TeleBot("8542738429:AAEGQgAvTEi7yJJYwxqAWRa0mz2gjYwW-po")
+bot = telebot.TeleBot("8531959574:AAHZ2znCqPyApBHmu4oOcASnkgdTq4ImlSo")
 
 # Configure logging
 logging.basicConfig(
